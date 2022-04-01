@@ -1,3 +1,3 @@
 var somar = require("./modulos/somar");
 
-console.log(somar(24,23));
+console.log(somar(24,24));
